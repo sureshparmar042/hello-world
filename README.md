@@ -1,2 +1,2 @@
-# hello-world
+# SpringMVC
 project about hello world program
